@@ -85,11 +85,11 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     function getEventsForDate(date) {
-        // This is a placeholder. You would typically fetch events from a database or another source.
+      
         return [
             { title: "Meeting", date: "2022-02-09" },
             { title: "Birthday Party", date: "2022-02-14" },
-            // Add more events as needed
+
         ];
     }
 });
